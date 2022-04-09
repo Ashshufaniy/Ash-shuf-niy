@@ -1,2 +1,2 @@
-# Ash-shuf-niy
+# Ash-shufāniy
 Data and airtime Subscriptions
